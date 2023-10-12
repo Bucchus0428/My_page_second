@@ -1,0 +1,38 @@
+img{
+    float: left;
+    width: 50%;
+    border: 2px solid ;
+    border-radius: 5px;
+}
+.sentences{
+    text-align: center;
+}
+h1{
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+h2{
+    margin-top: 3px;
+    font-size: 3rem;
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Young Serif', serif;
+    font-family: 'Zen Antique', serif;
+}
+.career{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.detail{
+    font-size: 1.5rem;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 3%;
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+}

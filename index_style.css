@@ -1,0 +1,33 @@
+h1 {
+    font-family: 'Young Serif', serif;
+    font-size: 5rem;
+    text-align: center;
+    margin-bottom: 0px;
+}
+p{
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-left: 0px;
+    border-right: 0px;
+    margin-bottom: 30px;
+}
+a {
+    font-size: 1.5rem;
+    color: black;
+}
+img {
+    width: 100%;
+    height: 75%;
+}
+footer {
+    background-color: #CCC8AA; /* light gray background */
+    text-align: center; /* Optional: you might want the footer to always be at the bottom of the page */
+    bottom: 0;
+    width: 100%;
+}
